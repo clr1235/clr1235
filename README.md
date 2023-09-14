@@ -1,6 +1,6 @@
-#  🙋 Hello，I'm clr1235!
+# 🙋‍♂️ Hello，I'm clr1235!
 
-<p>&emsp;&emsp;任何事情，什么时候开始都不晚，晚的是你从来都不敢开始！。</p>
+<p>💫&emsp;&emsp;任何事情，什么时候开始都不晚，晚的是你从来都不敢开始！。</p>
 <br>
 
 <div align="left">
