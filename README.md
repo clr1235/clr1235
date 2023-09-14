@@ -1,13 +1,9 @@
-#  🙋 Hello，I'm clr!
+#  🙋 Hello，I'm clr1235!
 
-<p>✍️&nbsp;&nbsp;一名菜鸟前端开发工程师！</p>
 <p>&emsp;&emsp;任何事情，什么时候开始都不晚，晚的是你从来都不敢开始！。</p>
 <br>
 
 <div align="left">
-  <a href="https://clr1235.github.io/person-site/">
-    <img src="https://img.shields.io/badge/blog-博客-000000">
-  </a>&emsp;
   <a href="[https://juejin.cn/user/958429872532632/posts?sort=newest](https://juejin.cn/user/1063982985132216/posts)">
     <img src="https://img.shields.io/badge/juejin-掘金-487DF8">
   </a>&emsp;
