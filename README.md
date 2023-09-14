@@ -30,20 +30,11 @@
 
 #  📈 Github Statistics
 <!-- 贪吃蛇代码贡献图 -->
+<!--
 <div align="center">
   <img src="https://github.com/clr1235/clr1235/blob/snake/github-contribution-grid-snake.svg"/>
 </div>
-
-<!-- GitHub 提交频率图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=clr1235&bg_color=transparent&color=708090&line=d68caf&point=d68caf&area=true&hide_border=true" />
-</div>
-
-<!-- GitHub数据统计 -->
-<!-- profile-3d-contrib -->
-<div align="center">
-  <img src="https://github.com/clr1235/clr1235/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
+-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=clr1235&show_icons=true&theme=dark&locale=cn" width="56.2%" />
